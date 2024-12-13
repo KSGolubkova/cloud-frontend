@@ -1,0 +1,59 @@
+/*.header {*/
+/*    flex-grow: 1;*/
+/*}*/
+
+/*.header-page {*/
+/*    background: #213547;*/
+/*}*/
+
+/*.header-form {*/
+/*    text-shadow: 4px 4px black;*/
+/*    flex-grow: 1;*/
+/*    color: #b5ffeb;*/
+/*}*/
+
+/*.header-button .MuiToolbar-root {*/
+/*    padding: 0 20px;*/
+/*}*/
+
+/*.header-button {*/
+/*    text-shadow: 2px 2px black;*/
+/*    color: #b5ffeb;*/
+/*    border: none;*/
+/*    cursor: pointer;*/
+/*    transition: background-color 0.3s ease;*/
+/*}*/
+
+/*.header-button:hover {*/
+/*    color: #b5ffeb;*/
+/*}*/
+
+.header {
+    flex-grow: 1;
+}
+
+.header-page {
+    background: #ff9696;
+}
+
+.header-form {
+    text-shadow: 4px 4px rgba(211, 211, 211, 0.39);
+    flex-grow: 1;
+    color: rgb(255, 255, 255);
+}
+
+.header-button .MuiToolbar-root {
+    padding: 0 20px;
+}
+
+.header-button {
+    color: #024735;
+    border: none;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.header-button:hover {
+    text-shadow: 1px 1px rgba(211, 211, 211, 0.39);
+    color: #024735;
+}
